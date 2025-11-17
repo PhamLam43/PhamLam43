@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone, welcome to my GitHub. I'm a freshman at VNUHCM-UIT. 
 
 <!--
 **PhamLam43/PhamLam43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
