@@ -1,5 +1,5 @@
 #  Hi, I'm Phạm Lâm!
-🎓 Freshman at VNUHCM – UIT  
+## 🎓 Freshman at VNUHCM – UIT  
 Passionate about Computer Science, Algorithms, and AI  
 
 Learning C++, maybe Python in the near future!
@@ -7,9 +7,9 @@ Learning C++, maybe Python in the near future!
 Fun fact: I break code more than I write it (but that’s how you learn)
 
 --
-#Contact:
-email: Truonglampham2007@gmail.com
-Profile: PhamLam43.github.io
+## Contact:
+- email: Truonglampham2007@gmail.com
+- Profile: PhamLam43.github.io
 
 <!--
 **PhamLam43/PhamLam43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
