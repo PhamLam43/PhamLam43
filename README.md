@@ -1,7 +1,9 @@
 #  Hi, I'm Phạm Lâm!
 🎓 Freshman at VNUHCM – UIT  
 Passionate about Computer Science, Algorithms, and AI  
+
 Learning C++, maybe Python in the near future!
+
 Fun fact: I break code more than I write it (but that’s how you learn)
 
 
